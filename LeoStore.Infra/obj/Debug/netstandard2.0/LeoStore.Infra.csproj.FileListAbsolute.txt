@@ -1,0 +1,14 @@
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/obj/Debug/netstandard2.0/LeoStore.Infra.csprojAssemblyReference.cache
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/obj/Debug/netstandard2.0/LeoStore.Infra.AssemblyInfoInputs.cache
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/obj/Debug/netstandard2.0/LeoStore.Infra.AssemblyInfo.cs
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/obj/Debug/netstandard2.0/LeoStore.Infra.csproj.CoreCompileInputs.cache
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/bin/Debug/netstandard2.0/LeoStore.Infra.deps.json
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/bin/Debug/netstandard2.0/LeoStore.Infra.dll
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/bin/Debug/netstandard2.0/LeoStore.Infra.pdb
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/bin/Debug/netstandard2.0/LeoStore.Domain.dll
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/bin/Debug/netstandard2.0/LeoStore.Shared.dll
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/bin/Debug/netstandard2.0/LeoStore.Shared.pdb
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/bin/Debug/netstandard2.0/LeoStore.Domain.pdb
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/obj/Debug/netstandard2.0/LeoStore.Infra.csproj.CopyComplete
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/obj/Debug/netstandard2.0/LeoStore.Infra.dll
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Infra/obj/Debug/netstandard2.0/LeoStore.Infra.pdb

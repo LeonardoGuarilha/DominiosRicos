@@ -1,0 +1,12 @@
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/bin/Debug/netstandard2.0/LeoStore.Domain.deps.json
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/bin/Debug/netstandard2.0/LeoStore.Domain.dll
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/bin/Debug/netstandard2.0/LeoStore.Domain.pdb
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/obj/Debug/netstandard2.0/LeoStore.Domain.csprojAssemblyReference.cache
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/obj/Debug/netstandard2.0/LeoStore.Domain.AssemblyInfoInputs.cache
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/obj/Debug/netstandard2.0/LeoStore.Domain.AssemblyInfo.cs
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/obj/Debug/netstandard2.0/LeoStore.Domain.csproj.CoreCompileInputs.cache
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/obj/Debug/netstandard2.0/LeoStore.Domain.dll
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/obj/Debug/netstandard2.0/LeoStore.Domain.pdb
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/bin/Debug/netstandard2.0/LeoStore.Shared.dll
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/bin/Debug/netstandard2.0/LeoStore.Shared.pdb
+/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Domain/obj/Debug/netstandard2.0/LeoStore.Domain.csproj.CopyComplete

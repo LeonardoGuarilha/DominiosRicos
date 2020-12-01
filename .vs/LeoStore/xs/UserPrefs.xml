@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D9939AA5-3F59-4CC6-86EE-4B8B914D918F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeoStore.Infra/StoreContext/Repositories/CustomerRepository.cs">
+    <Files>
+      <File FileName="LeoStore.Infra/StoreContext/Repositories/CustomerRepository.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeoStore" expanded="True">
+            <Node name="LeoStore.Infra" expanded="True">
+              <Node name="StoreContext" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LeoStore.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

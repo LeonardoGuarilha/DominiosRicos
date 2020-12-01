@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+KKTCcHGRNhmfF9N4X0rrhz4ivjtRWGpIz0VKm84wZhdmRp/G2VJnDUjn35ViKeJP8RbSlBIxPwti8PzVHEVQ==",
+  "success": true,
+  "projectFilePath": "/Users/leonardoguarilha/Desktop/balta/CriandoAPISComASPNETCore2EDapper/LeoStore/LeoStore.Shared/LeoStore.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardoguarilha/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
+    "/Users/leonardoguarilha/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/leonardoguarilha/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
